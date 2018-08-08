@@ -10,7 +10,7 @@ data =[]
 lv_array = []
 limit = len(os.listdir('imgs'))
 
-for i in range(1,limit):
+for i in range(3,limit-3):
 	img = cv2.imread('imgs/{}.jpg'.format(i),cv2.IMREAD_GRAYSCALE)
 	img = cv2.resize(img,(208,120))
 	data_np = np.array(img) / 255
