@@ -16,11 +16,11 @@ This is an attempt to create a dance generator AI, inspired by [this](https://ww
 
 * Python version = 3.5.2
 
-### Packages
-* keras==2.2.0
-* sklearn==0.19.1
-* numpy==1.14.3
-* opencv-python==3.4.1
+  ### Packages
+  * keras==2.2.0
+  * sklearn==0.19.1
+  * numpy==1.14.3
+  * opencv-python==3.4.1
 
 ## Dataset
 
