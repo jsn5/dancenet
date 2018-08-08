@@ -1,5 +1,5 @@
 # DanceNet - Dance generator using Autoencoder, LSTM and Mixture Density Network. (Keras)
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/jsn5/dancenet/)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/jsn5/dancenet/)
 
 This is an attempt to create a dance generator AI, inspired by [this](https://www.youtube.com/watch?v=Sc7RiNgHHaE&t=9s) video by [@carykh](https://twitter.com/realCarykh)
