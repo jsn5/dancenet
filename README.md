@@ -46,6 +46,7 @@ This is the video used for training.
 * [Original project video](https://www.youtube.com/watch?v=Sc7RiNgHHaE&t=9s) by Cary Huang
 * [Building autoencoders in keras](https://blog.keras.io/building-autoencoders-in-keras.html) by [Francois Chollet](https://twitter.com/fchollet)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+* [Generative Choreography using Deep Learning](https://arxiv.org/abs/1605.06921)
 * [Mixture Density Networks](http://blog.otoro.net/2015/06/14/mixture-density-networks/) by [David Ha](https://twitter.com/hardmaru)
 * [Mixture Density Layer for Keras](https://github.com/cpmpercussion/keras-mdn-layer) by [Charles Martin](https://github.com/cpmpercussion/)
  
