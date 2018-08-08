@@ -67,11 +67,11 @@ vae = Model(input_img,outputs,name="vae")
 def data_generator(batch_size,limit):
 
 	batch = []
-	counter = 3
+	counter = 1
 	while 1:
 		for i in range(1,limit+1):
 			if counter >= limit:
-				counter = 3
+				counter = 1
 			img = cv2.imread("imgs/{}.jpg".format(counter),cv2.IMREAD_GRAYSCALE)
 			img = img.reshape(120,208,1)
 			batch.append(img)
