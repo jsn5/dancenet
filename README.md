@@ -14,6 +14,9 @@ This is an attempt to create a dance generator AI, inspired by [this](https://ww
 
 ## Requirements:
 
+* Python version = 3.5.2
+
+### Packages
 * keras==2.2.0
 * sklearn==0.19.1
 * numpy==1.14.3
@@ -30,6 +33,13 @@ This is the video used for training.
 * Download the trained weights from [here](https://drive.google.com/file/d/1LWtERyPAzYeZjL816gBoLyQdC2MDK961/view?usp=sharing). and extract it to the dancenet dir.
 * Run dancegen.ipynb
 
+## Training from scratch
+
+* fill dance sequence images labeled as `1.jpg`, `2.jpg` ... in `imgs/` folder
+* run `model.py`
+* run `gen_lv.py` to encode images
+* run `video_from_lv.py` to test decoded video
+* run  jupyter notebook `dancegen.ipynb` to train dancenet and generate new video.
 
 ## References
 
