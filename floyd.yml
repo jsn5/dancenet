@@ -1,0 +1,5 @@
+env: pytorch-0.4
+machine: cpu
+input:
+  - source: whatrocks/datasets/dancenet-weights/1
+    destination: dancenetweights
