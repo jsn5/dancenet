@@ -1,4 +1,4 @@
-# DanceNet - Dance generator using Autoencoder, LSTM and Mixture Density Network. (Keras)
+# DanceNet - Dance generator using Variational Autoencoder, LSTM and Mixture Density Network. (Keras)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jsn5/dancenet/blob/master/LICENSE) [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run)
 
