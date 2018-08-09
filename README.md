@@ -1,6 +1,6 @@
 # DanceNet - Dance generator using Autoencoder, LSTM and Mixture Density Network. (Keras)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jsn5/dancenet/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jsn5/dancenet/blob/master/LICENSE) [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run)
 
 This is an attempt to create a dance generator AI, inspired by [this](https://www.youtube.com/watch?v=Sc7RiNgHHaE&t=9s) video by [@carykh](https://twitter.com/realCarykh)
 
@@ -28,9 +28,16 @@ https://www.youtube.com/watch?v=NdSqAAT28v0
 This is the video used for training.
 
 
-## How to run
+## How to run locally
 
 * Download the trained weights from [here](https://drive.google.com/file/d/1LWtERyPAzYeZjL816gBoLyQdC2MDK961/view?usp=sharing). and extract it to the dancenet dir.
+* Run dancegen.ipynb
+
+## How to run in your browser
+
+[![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run)
+
+* Click the button above to open this code in a FloydHub workspace (the trained weights dataset will be automatically attached to the environment)
 * Run dancegen.ipynb
 
 ## Training from scratch
