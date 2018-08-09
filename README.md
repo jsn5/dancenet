@@ -37,7 +37,7 @@ This is the video used for training.
 
 [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run)
 
-* Click the button above to open this code in a FloydHub workspace (the trained weights dataset will be automatically attached to the environment)
+* Click the button above to open this code in a FloydHub workspace (the [trained weights dataset](https://www.floydhub.com/whatrocks/datasets/dancenet-weights) will be automatically attached to the environment)
 * Run dancegen.ipynb
 
 ## Training from scratch
