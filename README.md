@@ -49,7 +49,7 @@ This is the video used for training.
 ## References
 
 * [Does my AI have better dance moves than me?](https://www.youtube.com/watch?v=Sc7RiNgHHaE&t=9s) by Cary Huang
-* [Generative Choreography using Deep Learning (Chor-RNN](https://arxiv.org/abs/1605.06921)
+* [Generative Choreography using Deep Learning (Chor-RNN)](https://arxiv.org/abs/1605.06921)
 * [Building autoencoders in keras](https://blog.keras.io/building-autoencoders-in-keras.html) by [Francois Chollet](https://twitter.com/fchollet)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * [Mixture Density Networks](http://blog.otoro.net/2015/06/14/mixture-density-networks/) by [David Ha](https://twitter.com/hardmaru)
