@@ -3,10 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jsn5/dancenet/blob/master/LICENSE) [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run)
 [![DOI](https://zenodo.org/badge/143685321.svg)](https://zenodo.org/badge/latestdoi/143685321)
 
-
-This is an attempt to create a dance generator AI, inspired by [this](https://www.youtube.com/watch?v=Sc7RiNgHHaE&t=9s) video by [@carykh](https://twitter.com/realCarykh)
-
-
 ![](https://github.com/jsn5/dancenet/blob/master/demo.gif ) ![](https://github.com/jsn5/dancenet/blob/master/demo2.gif )
 
 ## Main components:
@@ -52,10 +48,10 @@ This is the video used for training.
 
 ## References
 
-* [Original project video](https://www.youtube.com/watch?v=Sc7RiNgHHaE&t=9s) by Cary Huang
+* [Does my AI have better dance moves than me?](https://www.youtube.com/watch?v=Sc7RiNgHHaE&t=9s) by Cary Huang
+* [Generative Choreography using Deep Learning (Chor-RNN](https://arxiv.org/abs/1605.06921)
 * [Building autoencoders in keras](https://blog.keras.io/building-autoencoders-in-keras.html) by [Francois Chollet](https://twitter.com/fchollet)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
-* [Generative Choreography using Deep Learning](https://arxiv.org/abs/1605.06921)
 * [Mixture Density Networks](http://blog.otoro.net/2015/06/14/mixture-density-networks/) by [David Ha](https://twitter.com/hardmaru)
 * [Mixture Density Layer for Keras](https://github.com/cpmpercussion/keras-mdn-layer) by [Charles Martin](https://github.com/cpmpercussion/)
  
